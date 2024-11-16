@@ -32,5 +32,5 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 
 # Examples
 
-![Alt text](debian-1.png)
-
+![Alt text](mxlinux-1.png)
+![Alt text](mxlinux-2.png)
